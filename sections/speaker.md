@@ -1,6 +1,5 @@
-## Speaker: Markus Eisele
+## Speaker: Derek Ashmore
 
-* Red Hat - Developer Advocate
-* Java Champion
-* Speaker/Writer on all things JavaEE
+* Senior Technology Expert 25+ Years
+* Java EE Architect's Handbook
 

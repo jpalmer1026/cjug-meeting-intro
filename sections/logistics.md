@@ -3,9 +3,13 @@
 
 ## The bathrooms are...
 
-Locked!  Ask us for a key if you need to use.
-
+Back and Left
 
 ## Food & drink are...
 
-On the tables.  Beer in the fridge
+Lou's.....
+
+## Network Access is
+ssid: CarsGuest
+Username: guest
+Pass: PlayBall!

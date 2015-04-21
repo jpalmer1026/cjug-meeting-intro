@@ -1,12 +1,13 @@
 ## Chicago Java Users Group
 
-March 17, 2015
+April 21, 2015
 
-Markus Eisele Presents: Wild Flies and a Camel - Java EE Integration Stories
+Derek Ashmore Presents: Microservices for Java Architects
+
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-	<img src="http://www.wikihow.com/images/a/a5/Draw-a-Shamrock-Step-12.jpg" width="50px" height="50px"/>
+	
 </div>
 
 
@@ -22,7 +23,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,200+** members
+* **1,374+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,20 +31,15 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	
 	<tr>
-		<th>March 26, 2015</th>
-		<td>Maker Track: Android, XBee, Quadcopters and Seg-Bots</td>
+		<th>May 7, 2015</th>
+		<td>(VIRTUAL) Adopt-a-JSR, or How I can Change Java?</td>
 	</tr>
 	<tr>
-		<th>April 2, 2015</th>
-		<td>Andreas Grabner Presents: Java and Performance: Biggest Mistakes</td>
+		<th>May 11, 2015</th>
+		<td>Trisha Gee Presents: Is Groovy Better than Java?</td>
 	</tr>
-	<tr>
-		<th>April 21, 2015</th>
-		<td>Derek Ashmore Presents: Microservices for Java Architects</td>
-	</tr>
-	
+
 </table>
 
 
@@ -70,9 +66,18 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Want to get involved in CJUG?
 
-
 ## Nominate yourself for our Advisory Board!
 * Advisory Board gets a say in how CJUG is run.
 * Be a part of one of the largest Java User Groups in the US.
 * Self nominate by recording your attendance at 1 meeting per quarter until July elections.
 * Sign up today!
+
+
+## New Java NewsCast!!
+* JavaOffHeap.com (Freddy, Bob, Michael, Josh, Jeff)
+
+
+## Help us out, Participate!
+http://www.meetup.com/ChicagoJUG/polls/1198749/
+
+
