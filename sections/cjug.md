@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 10, 2015
+September 24, 2015
 
-GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming
+Peter Lawrey Presents: The Future of Unsafe and Chronicle
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,26 +30,31 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>September 22, 2015</th>
-		<td>Venkat Subramaniam Presents: Lazy Evaluations and its Impact on Efficiency</td>
-	</tr>
-	<tr>
-		<th>September 24, 2015</th>
-		<td>Peter Lawrey Presents: The Future of Unsafe and Chronicle</td>
+		<th>September 29, 2015</th>
+		<td>Josh Juneau and Bob Paulin Presents: Adopt-a-JSR for Java EE (online)</td>
 	</tr>
 	<tr>
 		<th>October 1, 2015</th>
 		<td>Daniel Hinojosa Presents: Playing with the Play Framework using Scala</td>
 	</tr>
+	<tr>
+		<th>October 22, 2015</th>
+		<td>Gregory Kick Presents: Annotation Processing for Fun and Profit</td>
+	</tr>
+	<tr>
+		<th>November 8, 2015</th>
+		<td>Devoxx4Kids: HTML5 and JavaScript</td>
+	</tr>
+
 </table>
 
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast Episode 5
-* Josh Long from Pivotal joins us!
+#Java Off Heap Podcast Episode 6
+* Reactive Programming? (new fad?)
+* JUnit asking for $
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
-* Java News Cast
 * Subscribe! (http://www.javaoffheap.com)
 
 --section--
